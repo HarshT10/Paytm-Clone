@@ -2,6 +2,10 @@
 
 - I built this project using Tailwind and it is **Mobile Responsive**. I learned Tailwind 2 days before making this project. I've used Tailwind Components like Tailblocks and Flowbite.
 
+[Netlify](https://paytm-clone-harshcodes.netlify.app/)
+
+![Badge](https://img.shields.io/badge/Netlify-Link-green)
+
 ---
 
 ## What did I learn from this Project?
