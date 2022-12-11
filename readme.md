@@ -2,9 +2,9 @@
 
 - I built this project using Tailwind and it is **Mobile Responsive**. I learned Tailwind 2 days before making this project. I've used Tailwind Components like Tailblocks and Flowbite.
 
-[Netlify](https://paytm-clone-harshcodes.netlify.app/)
+- Removed Netlify Link as this particular project was getting students accounts banned.
 
-![Badge](https://img.shields.io/badge/Netlify-Link-green)
+- I've attached screenshots below.
 
 ---
 
@@ -33,4 +33,25 @@
 ---
 
 ## **Feedback**
+
 - Feedbacks are always appreciated. harsh.thakkar1011@gmail.com
+
+---
+
+## **Screenshots**
+
+![Alt](/images/screenshots/Desktop%20Screenshot%202022.12.11%20-%2010.26.22.64.png)
+
+![Alt](images/screenshots/Desktop%20Screenshot%202022.12.11%20-%2010.26.31.42.png)
+
+![Alt](/images/screenshots/Desktop%20Screenshot%202022.12.11%20-%2010.26.39.35.png)
+
+![Alt](/images/screenshots/Desktop%20Screenshot%202022.12.11%20-%2010.26.46.41.png)
+
+![Alt](/images/screenshots/Desktop%20Screenshot%202022.12.11%20-%2010.26.53.72.png)
+
+![Alt](/images/screenshots/Desktop%20Screenshot%202022.12.11%20-%2010.27.02.33.png)
+
+![Alt](/images/screenshots/Desktop%20Screenshot%202022.12.11%20-%2010.27.09.80.png)
+
+![Alt](images/screenshots/Desktop%20Screenshot%202022.12.11%20-%2010.27.17.69.png)
